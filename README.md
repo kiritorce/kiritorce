@@ -2,7 +2,7 @@
 ## ⚔️ Hi, I'm Kirito :computer:
  ------------
 
-#### Passionate about technology, hardware, security, games and entrepreneurship. Member of Hacking Force and Hard Disk communities.
+#### Passionate about technology, hardware, security, games and entrepreneurship. Member and Staff at Hacking Force your place to learn hacking, new technologies and make friends.
 
   <a href="https://github.com/Kirit074">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kirit074&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=c9d1d9&bg_color=161b22"/>
