@@ -28,24 +28,22 @@
 ### 🏆 Achievements
 
 <div>
-<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-36568" target="_blank"><img src="https://raw.githubusercontent.com/Kirit074/Kirit074/main/dist/CVE-2021-36568.png" target="_blank"></a> 
-<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-2222" target="_blank"><img src="https://raw.githubusercontent.com/Kirit074/Kirit074/main/dist/CVE-2022-2222.png" target="_blank"></a> 
-<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-2546" target="_blank"><img src="https://raw.githubusercontent.com/Kirit074/Kirit074/main/dist/CVE-2022-2546.png" target="_blank"></a>
-<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-2654" target="_blank"><img src="https://raw.githubusercontent.com/Kirit074/Kirit074/main/dist/CVE-2022-2654.png" target="_blank"></a> 
-<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-2655" target="_blank"><img src="https://raw.githubusercontent.com/Kirit074/Kirit074/main/dist/CVE-2022-2655.png" target="_blank"></a> 
+<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-36568" target="_blank"><img src="https://i.ibb.co/c3mb4Vt/CVE-2021-36568.png" target="_blank"></a> 
+<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-2222" target="_blank"><img src="https://i.ibb.co/X5sLnqz/CVE-2022-2222.png" target="_blank"></a> 
+<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-2546" target="_blank"><img src="https://i.ibb.co/RDXMtkw/CVE-2022-2546.png" target="_blank"></a>
+<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-2654" target="_blank"><img src="https://i.ibb.co/hKxJrq2/CVE-2022-2654.png" target="_blank"></a> 
+<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-2655" target="_blank"><img src="https://i.ibb.co/dfhZ3F0/CVE-2022-2655.png" target="_blank"></a> 
 </div>
 
   
   ### 🌎 Communities
 <div>
-<a href="https://discord.gg/bgnNQdbr9R" target="_blank"><img src="https://raw.githubusercontent.com/Kirit074/Kirit074/main/dist/harddisk.png" target="_blank"></a> 
-<a href="https://discord.gg/8H5bxN8jp8" target="_blank"><img src="https://raw.githubusercontent.com/Kirit074/Kirit074/main/dist/hackingforce.png" target="_blank"></a> 
+<a href="https://discord.gg/Haxg3BzqtH" target="_blank"><img src="https://i.ibb.co/PGjNthq/hackingforce.png" target="_blank"></a> 
 </div>
 
 ### ☕ Get In Touch
 <div> 
   <a href="https://www.linkedin.com/in/kirit074/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.notion.so/Checklist-88948bf9e74e4c66b6058f27412748a3"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" target="_blank"></a>
 
   ![Snake animation](https://github.com/Kirit074/Kirit074/blob/output/snake.svg)
  
