@@ -36,7 +36,7 @@
 </div>
 
   
-  ### 🌎 Communities
+  ### 🌎 Community
 <div>
 <a href="https://discord.gg/Haxg3BzqtH" target="_blank"><img src="https://i.ibb.co/PGjNthq/hackingforce.png" target="_blank"></a> 
 </div>
