@@ -5,9 +5,7 @@
 #### Passionate about technology, hardware, security, games and entrepreneurship. Member and Staff at Hacking Force your place to learn hacking, new technologies and make friends.
 
   <a href="https://github.com/Kirit074">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kirit074&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=c9d1d9&bg_color=161b22"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirit074&layout=compact&show_icons=true&title_color=fff&icon_color=fff&text_color=c9d1d9&bg_color=161b22&hide=elixir"/>
-</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
