@@ -1,27 +1,23 @@
-
 ## ⚔️ Hi, I'm Kirito :computer:
- ------------
 
-#### Passionate about technology, hardware, security, games and entrepreneurship. Member and Staff at Hacking Force your place to learn hacking, new technologies and make friends.
+------------
 
-  <a href="https://github.com/Kirit074">
+<img align="right" alt="kirito" height="245" style="border-radius:50px;" src="https://raw.githubusercontent.com/Kirit074/Kirit074/main/dist/kiritoelf.gif">
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-  <img align="center" alt="Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
-  <img align="center" alt="Arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
-  <img align="center" alt="Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
-  <img align="center" alt="PSD" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg">
-  <img align="center" alt="AI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg">
-  <img align="right" alt="kirito" height="160" style="border-radius:50px;" src="https://raw.githubusercontent.com/Kirit074/Kirit074/main/dist/kirito.jpg">
-</div>
+#### I'm an information security enthusiast with a focus on exploiting web services, infrastructure and mobile.
   
-  ##
+</div>
+
+```c
+#include <stdio.h>
+
+int main() {
+    printf("Contacts:\n");
+    printf("Discord: @hfkirito\n");
+ 
+    return 0;
+}
+```
   
 ### 🏆 Achievements
 
