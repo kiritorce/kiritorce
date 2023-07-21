@@ -13,7 +13,7 @@
 
 int main() {
     printf("Contacts:\n");
-    printf("Discord: @hfkirito\n");
+    printf("Discord: @kiritorce\n");
  
     return 0;
 }
