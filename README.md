@@ -2,7 +2,7 @@
 
 ------------
 
-<img align="right" alt="kirito" height="245" style="border-radius:50px;" src="https://raw.githubusercontent.com/Kirit074/Kirit074/main/dist/kiritoelf.gif">
+<img align="right" alt="kirito" height="245" style="border-radius:50px;" src="https://raw.githubusercontent.com/kiritorce/kiritorce/main/dist/kiritoelf.gif">
 
 #### I'm an information security enthusiast with a focus on exploiting web services, infrastructure and mobile.
   
@@ -37,8 +37,5 @@ int main() {
 
 ### ☕ Get In Touch
 <div> 
-  <a href="https://www.linkedin.com/in/kirit074/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-  ![Snake animation](https://github.com/Kirit074/Kirit074/blob/output/snake.svg)
- 
+  <a href="https://www.linkedin.com/in/kiritorce/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
